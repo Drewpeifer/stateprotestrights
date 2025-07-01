@@ -1,6 +1,7 @@
-# State Protest Rights - React Version
+# State Protest Rights
 
-This is a React version of the State Protest Rights app, providing information about protesting rights across different US states.
+[StateProtestRights.com](https://stateprotestrights.com)
+Source code for stateprotestrights.com, providing ACLU protest guidelines across all US states.
 
 ## Features
 
@@ -8,44 +9,12 @@ This is a React version of the State Protest Rights app, providing information a
 - Checklist for protest preparation
 - Information on avoiding surveillance during protests
 
-## Getting Started
+## Technology Stack
 
-### Prerequisites
-
-- Node.js (v16+)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-2. Navigate to the project directory:
-   ```
-   cd r2p-react
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-### Development
-
-To run the application in development mode:
-
-```
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### Build
-
-To build the application for production:
-
-```
-npm run build
-```
-
-This builds the app for production to the `build` folder.
+- **React 18.2.0**
+- **Material-UI (MUI) 6.4.10**
+- **Google Fonts**
+- **MUI X Charts 7.28.0**
 
 ## Project Structure
 
