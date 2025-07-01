@@ -1,0 +1,37 @@
+{
+  "sources": "https://www.acluak.org/en/know-your-rights/know-your-rights-during-protest",
+  "intro": {
+    "title": "Know Your Rights During a Protest",
+    "text": "The right to protest and freely assemble is critical to a functioning democracy. Every American has the right to join other people in peaceful demonstrations, but often the government or police forces violate this fundamental right through excessive force or mass arrests. Being informed and educated about your rights is your best defense against police force - check out our Know Your Rights materials before you head out to your next peaceful assembly!"
+  },
+  "sections": [
+    {
+      "title": "Legal Disclaimer",
+      "content": [
+        "This information is not intended as legal advice. Laws vary by state; please contact a lawyer."
+      ]
+    },
+    {
+      "title": "Documents",
+      "links": [
+        {
+          "text": "Know Your Rights - Demonstrations and Protests.pdf",
+          "url": "https://www.acluak.org/en/know-your-rights/know-your-rights-during-protest"
+        },
+        {
+          "text": "Protesters' Rights Postcard.pdf",
+          "url": "https://www.acluak.org/en/know-your-rights/know-your-rights-during-protest"
+        }
+      ]
+    },
+    {
+      "title": "Related Issues",
+      "links": [
+        {
+          "text": "Free Speech",
+          "url": "https://www.acluak.org/en/know-your-rights/know-your-rights-during-protest"
+        }
+      ]
+    }
+  ]
+}

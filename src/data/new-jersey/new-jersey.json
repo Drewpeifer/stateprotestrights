@@ -1,0 +1,82 @@
+{
+  "sources": "https://www.aclu-nj.org/en/know-your-rights/know-your-protest-rights",
+  "intro": {
+    "title": "Know Your Protest Rights",
+    "text": "The First Amendment protects your right to assemble and express your views through protest. Learn more here about what your rights are, how to exercise them, and what to do when your rights are violated."
+  },
+  "sections": [
+    {
+      "title": "Do I have the right to protest?",
+      "content": [
+        "Yes. The right to assemble and express your views through protest is critical to a functioning democracy and at the core of the First Amendment of the United States Constitution.",
+        "Protestors have several protections under the First Amendment, but the government can place certain limits on individuals during a protest, like reasonable time, place, or manner restrictions. For example, the government can stop you from protesting loudly late at night.",
+        "However, the government cannot place limits on the content of your speech. You are generally free to carry signs, banners, or leaflets that have your message.",
+        "Ordinarily, a clear and present danger of riot, disorder, or threat to public safety is needed to break up a protest."
+      ]
+    },
+    {
+      "title": "Where can I protest?",
+      "content": [
+        "Your rights are the strongest when you are in what is considered to be a \"traditional public forum,\" such as a public street, public sidewalk, or public park.",
+        "For other public property, like plazas in front of government buildings, you likely have the right to protest if you are not blocking access or interfering with purposes the property was designed for.",
+        "For private property, the government may not restrict your speech if it is taking place on your own property or with the consent of the property owner. The New Jersey Constitution also provides free speech protections in places that look like traditional public forums but are privately owned, such as shopping malls and housing developments. To be safe, protesters should attempt to gain the express permission of private property owners prior to protesting there."
+      ]
+    },
+    {
+      "title": "Do I need a permit?",
+      "content": [
+        "It depends on the situation.",
+        "You can picket or leaflet in public places by yourself or in small groups without a permit so long as you are not blocking public streets, sidewalks, or entrances to buildings. If you don't have a permit, police officers can ask you to move to the side of a street or sidewalk to let others pass or for safety reasons.",
+        "Certain types of events may require permits, including:",
+        "• A preplanned march or parade that requires blocking traffic or street closure.",
+        "• A large, preplanned rally requiring the use of sound amplifying devices.",
+        "• A preplanned rally over a certain size at most parks or plazas.",
+        "If you're planning a protest like those mentioned above, you may want to check with your municipality to request a permit. Generally, government officials cannot deny, condition, or revoke a permit based on the subject matter of the protest, or concerns about counter-protesters, or other responses to the protest."
+      ]
+    },
+    {
+      "title": "Do counter protesters also have rights?",
+      "content": [
+        "Yes. Counter protesters also have the right to assemble and express their views through counter-protesting.",
+        "Police are supposed to treat protesters and counter protesters equally and are permitted to keep opposing groups separated.",
+        "Police officers should not silence protest due to listeners' reactions, nor should they punish peaceful speakers if those reactions turn violent or if many people gather to hear the speaker."
+      ]
+    },
+    {
+      "title": "Can I film and photograph protests?",
+      "content": [
+        "The right to photograph or videotape police officers and others during protests and at other times in public spaces is protected by the First Amendment.",
+        "Police officers may not confiscate or demand to view your digital photographs or videos without a warrant, nor may they delete data under any circumstances. However, officers may legitimately order civilians to cease activities that are truly interfering with legitimate law enforcement operations. Generally, this means that officers can order someone to stand back from police action.",
+        "Police cannot ask people who are filming to stand further away than those who are not. If you have a right to stand somewhere, you can film from there."
+      ]
+    },
+    {
+      "title": "Is civil disobedience different than protesting?",
+      "content": [
+        "Yes. Civil disobedience is peaceful but unlawful activity as a form of protest. Examples of this include sit-ins or blocking access to private property, such as government offices or businesses. Acts of civil disobedience, including symbolic acts, that involve illegal conduct are not covered by constitutional protections and can – and often do – lead to arrest and conviction.",
+        "Therefore, for example, while sitting in a road may be expressing a political opinion, the act of blocking traffic may result in a citation and/or arrest."
+      ]
+    },
+    {
+      "title": "What is the role of police officers at protests?",
+      "content": [
+        "Ideally, the role of police at protests should be to help protect your right to protest.",
+        "However, you cannot assume officers will behave in a way that protects your safety or that they will respect your rights even after you assert them. There are many examples of police abusing their authority and improperly interacting with protesters. It is very important to know your rights if police officers do not follow the law."
+      ],
+      "link": {
+        "text": "Read more about the role of police at protests.",
+        "url": "#role-of-police"
+      }
+    },
+    {
+      "title": "What should I do if I feel my rights have been violated?",
+      "content": [
+        "If you can safely do so, try to find officers' badge numbers or patrol car numbers. Write down everything you remember as soon as possible. Try to find witnesses and get their names and phone numbers. If you are injured, take photos of the injuries, but don't delay seeking medical attention. Documenting this information will assist you in filing complaints or finding an attorney for assistance.",
+        "Below are steps you may wish to take if you feel that your rights have been violated during a protest. However, if you are facing criminal charges, you should not take any of these steps without first consulting with your defense attorney.",
+        "• File a complaint with the internal affairs department of the police department where your rights were violated.",
+        "• Contact a private attorney. You may contact your county bar association for a referral. The New Jersey State Bar Foundation also provides a list of government and legal resources.",
+        "• If you believe that a police officer or department discriminated against or harassed you because of your race, religion, national origin, gender or sexual orientation, disability, or gender identity or expression, file a complaint with the New Jersey Division on Civil Rights."
+      ]
+    }
+  ]
+}

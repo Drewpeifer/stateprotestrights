@@ -1,0 +1,114 @@
+{
+  "sources": [
+    "https://www.aclunc.org/our-work/know-your-rights/know-your-rights-free-speech-protests-demonstrations",
+    "https://www.aclusocal.org/en/know-your-rights/protesters"
+  ],
+  "intro": {
+    "title": "Know Your Rights: Free Speech, Protests & Demonstrations",
+    "text": "Both the California Constitution and the First Amendment to the United States Constitution protect your right to free expression. However, police and other government officials are allowed to place certain narrow restrictions on the exercise of speech rights."
+  },
+  "sections": [
+    {
+      "title": "Northern California",
+      "subsections": [
+        {
+          "title": "Limits on Speech Protections",
+          "items": [
+            "The First Amendment protects your right to express your opinion, even if it's unpopular. You may criticize the President, Congress, or the chief of police without fear of retaliation. But this right doesn't extend to libel, slander, obscenity, \"true threats,\" or speech that incites imminent violence or law-breaking. If you grab a megaphone during a riot and yell \"shoot the cop\" or \"loot the shop,\" you may reasonably expect trouble."
+          ]
+        },
+        {
+          "title": "Free Speech and Government Overthrow",
+          "items": [
+            "Yes, for the most part. In the 1940s and '50s, suspected subversives or Communists were often charged with 'incitement to illegal activity' and convicted. Subsequent courts have interpreted the government's ability to prohibit speech as incitement more narrowly. The government can't stop you from talking generally about ideas or future events. But it may ban speech that's \"directed to inciting or producing imminent lawless action and is likely to incite or produce such action.\""
+          ]
+        },
+        {
+          "title": "Responsibility for Others' Reactions",
+          "items": [
+            "If you are the organizer of a lawful protest, you can't be held responsible should people in attendance commit unlawful acts, as long as your words don't directly incite violence or law-breaking. You also are not liable for the way that counter-demonstrators react to your message. While counter-demonstrators do have a right to be present, it's the responsibility of the police to control the crowd."
+          ]
+        },
+        {
+          "title": "Campus Speech Rights",
+          "items": [
+            "Students at California colleges and universities should check out the guide to free speech and protest rights on campuses."
+          ],
+          "link": {
+            "text": "free speech and protest rights on campuses",
+            "url": "https://www.aclunc.org/our-work/know-your-rights/free-speech-campus"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Southern California",
+      "subsections": [
+        {
+          "title": "If you take part in a protest",
+          "items": [
+            "Distribute leaflets, flyers or other literature on your own property or on public sidewalks, parks and plazas",
+            "Picket or protest on public sidewalks, parks and plazas so long as sidewalks and building entrances are not blocked",
+            "Chant or sing protest songs on public sidewalks, parks and plazas"
+          ]
+        },
+        {
+          "title": "What you may not do",
+          "items": [
+            "Block access to sidewalks or buildings",
+            "Disrupt counter-protests",
+            "Engage in speech that is obscene, makes knowingly false statements of fact, or that is likely to incite an immediate disruptive or dangerous disturbance"
+          ]
+        },
+        {
+          "title": "Permit Requirements",
+          "items": [
+            "Not usually; however, the government may require permits for certain types of events. Generally, these events are: 1) a march or a parade that does not stay on the sidewalk, and other events that require street closures; 2) a very large rally; and 3) activity which obstructs vehicle or pedestrian traffic. Many permit procedures require that applications be filed with the police department or the city or county well in advance of the event. However, the government must allow you to obtain a permit on short notice if the event is organized in response to unforeseeable and recent occurrences."
+          ]
+        },
+        {
+          "title": "Marching Without a Permit",
+          "items": [
+            "In general, if groups of individuals stay on the sidewalk and obey traffic and pedestrian signals, their activity is protected. They may be required to allow enough space on the sidewalk for normal pedestrian traffic and may not obstruct or detain passers-by. It is always advisable to check with the city or the police to find out about permitting requirements—contact your local ACLU affiliate if the requirements seem unreasonable."
+          ]
+        },
+        {
+          "title": "Distributing Literature",
+          "items": [
+            "Yes. Pedestrians on sidewalks may be approached with leaflets, newspapers, petitions and solicitations for donations. Tables may also be set up on sidewalks for these purposes as long as demonstrators do not block entrances to buildings and passers-by are not physically detained. No permits are required."
+          ]
+        },
+        {
+          "title": "Picketing Rights",
+          "items": [
+            "Yes. No permit is required to picket, but it must be done in an orderly, non-disruptive fashion so that pedestrians can pass and entrances to buildings are not blocked. Pickets are not required to keep moving but may remain in one place as long as they leave room on the sidewalk for others to pass. Some jurisdictions may have restrictions prohibiting \"targeted residential picketing\" within a set number of feet of a residential dwelling or real estate parcel."
+          ]
+        },
+        {
+          "title": "Counter-Demonstrators",
+          "items": [
+            "Counter-demonstrators should not be allowed to physically disrupt the event they are protesting, but they do have the right to be present and to voice their disagreement with the demonstrators' message. Police are permitted to keep two antagonistic groups separated but should allow them to be within the general vicinity of one another."
+          ]
+        },
+        {
+          "title": "Disrupting Another's Speech",
+          "items": [
+            "In the context of a public meeting, although the law is not settled, heckling should be protected unless you are attempting to physically disrupt an event, are drowning out the other speakers or otherwise substantially disrupting the event in a way that is not customary for the event."
+          ]
+        },
+        {
+          "title": "Silencing Provocative Speakers",
+          "items": [
+            "Generally, no. Even the most inflammatory speaker cannot be punished for merely arousing the audience. A speaker can be arrested and convicted for incitement only if s/he specifically advocates illegal actions and only if those illegalities are imminently likely to occur."
+          ]
+        },
+        {
+          "title": "Financial Charges for Free Speech",
+          "items": [
+            "Some courts have permitted charges that cover actual administrative costs or the actual costs of re-routing traffic. However, if controversy or the content or viewpoint of the speech is used to apply higher costs—such as requiring a large insurance policy — or if the charges are entirely arbitrary, then the courts will not permit it. Regulations with financial requirements should include a waiver for groups that cannot afford the charge. Check to see if other groups have been granted waivers in the past—if so, denying your group a waiver may be discriminatory."
+          ]
+        }
+      ]
+    }
+  ]
+}

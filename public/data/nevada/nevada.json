@@ -1,0 +1,81 @@
+{
+  "sources": "https://www.aclunv.org/en/know-your-rights/protesters-rights-nevada",
+  "intro": {
+    "title": "Protester's Rights in Nevada",
+    "text": "Exercising your right to free speech and assembly through mass demonstrations is clearly protected under the First Amendment. However, mass demonstrations can result in unwanted police contact, arrests, or injuries. If you're going out to protest, here's what you need to know about your rights."
+  },
+  "sections": [
+    {
+      "title": "Where can I protest?",
+      "subsections": [
+        {
+          "title": "Location considerations",
+          "items": [
+            "Physical protests are not the only form of protest available. However, they are common, and physically gathering to challenge the government is the oldest American tradition.",
+            "Physical protests can occur on public property, such as a street, sidewalk, plaza, or park. These areas are called traditional public forums and afford the greatest First Amendment protections.",
+            "Physical protests may also take place within or directly outside of government buildings. The government can establish more rules limiting these protests, but they must be universally applied. The government can't target a specific protest group with special rules or limitations.",
+            "Some protests will require a permit, but only if they diverge from sidewalks or block streets, are large rallies that use amplified sound, or exceed the size limitations of public parks or courthouses. The government cannot deny a permit simply because of the content of the protest.",
+            "Protesting directly in front of a residential home is unlikely to be protected. A general march through a neighborhood is more likely to be protected, but the sidewalks must be public property. In Nevada, building development companies and HOAs own many sidewalks, making these areas private property.",
+            "Many protests in Nevada also occur near the strip, which contains a sometimes confusing mix of private and public property.",
+            "Private property owners can set rules for speech, photography, or videography on their property, making protesting on private property difficult."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What methods of protests are legal?",
+      "content": [
+        "It is unconstitutional to make protesting illegal. That said, some limits on protesting have been allowed. A protest can be shut down when there is a clear and present danger of riot, disorder, interference with traffic, or other immediate threats to public safety."
+      ]
+    },
+    {
+      "title": "When can a protest be forcibly disbanded?",
+      "content": [
+        "Police may only require a protest to disperse as a last resort. When forcing a protest to disperse, police have, in extreme circumstances, been known to inflict bodily harm by physical force, rubber bullets, bean bag rounds, live ammunition, tasers, tear gas, and/or pepper spray. The police are only supposed to use force to disband a protest when there is a clear and present danger."
+      ]
+    },
+    {
+      "title": "Can I record videos or take photos at a protest?",
+      "content": [
+        "Yes. It is perfectly legal to record or photograph anything in plain view, including interactions with law enforcement and counter-protesters. However, police officers may not take or demand to view your phone or other device, including photographs or videos, without a warrant."
+      ]
+    },
+    {
+      "title": "Is protesting safe?",
+      "content": [
+        "Protesting is a physical and public form of civic engagement. You are using your body to draw attention to an issue or cause. While most protests are peaceful, there have been instances of violence by the government or otherwise at protests. If you think a protest is becoming dangerous or if dispersal orders have been declared, you can choose to leave."
+      ]
+    },
+    {
+      "title": "What if I am detained or arrested while protesting?",
+      "content": [
+        "Try to stay calm. Ask the officer if you are free to go. If you are, calmly walk away. If not, you may invoke your Fifth Amendment right to remain silent until your lawyer is present.",
+        "Make sure to affirmatively and clearly state, 'I am invoking my Fifth Amendment right to stay silent, and I will not speak until my attorney is present.'",
+        "You do not have to agree to a search of your belongings, but an officer may do a “pat down” if they think you have a weapon or have committed a crime. It’s always better to refuse a search if possible, just like it’s best to remain silent.",
+        "If you are being detained, you must identify yourself. Other requests can be denied, but all lawful orders must be followed. It can be difficult to determine what a request and what an order from an officer are since officers are trained to make requests sound like orders."
+      ]
+    },
+    {
+      "title": "What technologies are being used at protests?",
+      "content": [
+        "The government is implementing technology across the nation to monitor and control protests. This includes using stingray technology to intercept data sent through a phone. This technology tricks your phone into connecting to it as if it were a cell phone tower or Wi-Fi hotspot and records all the data you send. The government has also been known to use cell phone jammers during protests, interfering with a phone's ability to communicate with other devices."
+      ]
+    },
+    {
+      "title": "If you feel your rights or someone else's rights have been violated",
+      "subsections": [
+        {
+          "title": "Steps to take",
+          "items": [
+            "If you can, take notes on what happened. Try to include the officers' badges, patrol car numbers, and the agency they work for.",
+            "Get contact information for witnesses.",
+            "Take video/photographs of the events if it is safe to do so.",
+            "Take photographs of any injuries and, if needed, seek medical attention.",
+            "Do not interfere with any arrest or detention.",
+            "Stay on sidewalks; do not go into the road or onto private property."
+          ]
+        }
+      ]
+    }
+  ]
+}

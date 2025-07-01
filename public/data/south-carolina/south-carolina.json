@@ -1,0 +1,85 @@
+{
+  "sources": "https://www.aclusc.org/en/know-your-rights/protesting-organizing-demonstrations",
+  "intro": {
+    "title": "Protesting & Organizing Demonstrations",
+    "text": "The First Amendment protects your right to assemble and express your views through protest. However, governments can impose reasonable restrictions on the time, place, and manner of demonstrations."
+  },
+  "sections": [
+    {
+      "title": "Can controversial speech be restricted?",
+      "content": [
+        "No. Officials can impose restrictions such as requiring permits for large groups or limiting the volume of amplifiers, but these and other restrictions must apply to all speech regardless of viewpoint."
+      ]
+    },
+    {
+      "title": "Where can protests take place?",
+      "content": [
+        "Generally, you may protest in \"public forums\" such as streets, sidewalks, and parks. Private property owners can set rules for speech on their property. If you disobey those rules, the owners can order you off their property or have you arrested."
+      ]
+    },
+    {
+      "title": "Do we need a permit to hold a protest?",
+      "content": [
+        "If you stay on the sidewalks, obey traffic signals, and do not block normal pedestrian movement you shouldn't need a permit."
+      ],
+      "subsections": [
+        {
+          "title": "Examples of events that may require permits:",
+          "items": [
+            "A march that will block traffic or close streets;",
+            "A rally that uses amplifiers; or",
+            "Group demonstrations at certain parks or plazas"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Permit timing",
+      "content": [
+        "You may need to apply for a permit several weeks in advance. This requirement cannot be used to prevent protests in response to breaking news."
+      ]
+    },
+    {
+      "title": "Can I distribute literature without a permit?",
+      "content": [
+        "Yes. You may approach pedestrians on public sidewalks with leaflets, newspapers, petitions, and solicitations for donations without a permit as long as you don't physically block entrances or passers-by. A permit may be required to set up tables or other physical structures."
+      ]
+    },
+    {
+      "title": "Can I picket on public sidewalks?",
+      "content": [
+        "Yes. Picketing must be orderly and non-disruptive so that pedestrians can pass and entrances aren't blocked."
+      ]
+    },
+    {
+      "title": "Can the government charge fees to protesters?",
+      "content": [
+        "Some local governments charge permit application fees, security deposits for clean-up, or fees to cover overtime police costs for permitted events."
+      ]
+    },
+    {
+      "title": "Can counter-demonstrators also protest?",
+      "content": [
+        "Yes, but they cannot physically disrupt the event they're protesting. Police can keep antagonistic groups separated."
+      ]
+    },
+    {
+      "title": "Can I photograph or videotape during protests?",
+      "content": [
+        "Yes. When you are lawfully in an outdoor public space, you may photograph anything in plain view, including federal buildings, transportation facilities and police activity. On private property, the owner may limit photography or video.",
+        "Generally, police may not confiscate or demand to view your photographs or video without a warrant, nor may they delete your images. They may order you to cease activities that interfere with law enforcement."
+      ]
+    },
+    {
+      "title": "Where can I find a legal observer?",
+      "content": [
+        "Legal observers act as legal witnesses to political or social demonstrations and document the events of public protests, including any incidents of police misconduct or violations of the rights of protesters. Legal observers are committed to defending free speech in a way that is as objective as possible so that their documentation can be used as evidence if police misconduct or obstructions to constitutionally protected free speech are challenged in court.",
+        "Would you like to request a legal observer to attend an upcoming event in your community? Fill out the form below, and we will share your contact information with volunteer legal observers in your area."
+      ],
+      "link": {
+        "text": "REQUEST A LEGAL OBSERVER",
+        "url": "https://www.aclusc.org/en/request-legal-observer"
+      }
+    }
+  ]
+}

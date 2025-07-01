@@ -1,0 +1,51 @@
+{
+  "sources": "https://www.aclu-or.org/en/know-your-rights/your-right-protest",
+  "intro": {
+    "title": "Your Right to Protest",
+    "text": "You have a constitutionally protected right to engage in peaceful protest in \"traditional public forums\" such as streets, sidewalks or parks. But in some cases the government can impose restrictions on this kind of activity by requiring permits. This is constitutional as long as the permit requirements are reasonable, and treat all groups the same no matter what the focus of the rally or protest. The government cannot impose permit restrictions or deny a permit simply because it does not like the message of a certain speaker or group."
+  },
+  "sections": [
+    {
+      "title": "General Rights",
+      "content": [
+        "Generally, you have the right to distribute literature, hold signs, collect petition signatures, and engage in other similar activities while on public sidewalks or in front of government buildings as long as you are not disrupting other people, forcing passersby to accept leaflets or causing traffic problems.",
+        "Under the USA Patriot Act, non-US citizens who are not permanent residents can be investigated solely because of their First Amendment activities. Immigrants who choose to engage in a protest, march, or a demonstration should carry with them the telephone numbers of friends and relatives, as well as the telephone numbers of an immigration attorney or an immigrant advocacy organization."
+      ]
+    },
+    {
+      "title": "Limitations on Speech",
+      "subsections": [
+        {
+          "title": "Unprotected speech",
+          "items": [
+            "The First Amendment does not protect speech that is combined with the violation of established laws such as trespassing, disobeying or interfering with a lawful order by a police officer. Also unprotected are malicious statements about public officials and obscene speech.",
+            "Although an inflammatory speaker cannot be punished for merely arousing an audience, a speaker can be arrested for incitement if he/she advocates imminent violence or specifically provokes people to commit unlawful actions."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Limitations on Action",
+      "subsections": [
+        {
+          "title": "Civil disobedience and illegal protests",
+          "items": [
+            "Demonstrators who engage in civil disobedience – defined as non-violent unlawful action as a form of protest – are not protected under the First Amendment. People who engage in civil disobedience should be prepared to be arrested or fined as part of their protest activity.",
+            "If you endanger others while protesting, you can be arrested. A protest that blocks vehicular or pedestrian traffic is illegal without a permit.",
+            "You do not have the right to block a building entrance or physically harass people. The general rule is that free speech activity cannot take place on private property, including shopping malls, without consent of the property owner. You do not have the right to remain on private property after being told to leave by the owner."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If Your Rights Are Violated",
+      "content": [
+        "If you feel that your rights as a protester have been violated, you can submit a Legal Request or call us at 503-227-3186."
+      ],
+      "link": {
+        "text": "Legal Request",
+        "url": "https://www.aclu-or.org/en/legal-request"
+      }
+    }
+  ]
+}

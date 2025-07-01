@@ -1,0 +1,105 @@
+{
+  "sources": ["https://www.acluutah.org/sites/default/files/21-04-Your_Right_to_Protest-FAQ.pdf","https://www.acluutah.org"],
+  "intro": {
+    "title": "Know Your Rights: Your Right to Protest",
+    "text": "The right to protest and freedom of speech belongs to everyone. You have a constitutionally protected right to engage in protests."
+  },
+  "sections": [
+    {
+      "title": "Did any laws in Utah this year alter my right to protest?",
+      "content": [
+        "No, the First Amendment in Utah is in full effect, in Utah and the United States, and no state law can change that. Individuals in Utah today retain the same right to protest and engage in other activities protected by the First Amendment as they have always had.",
+        "Earlier this year, Utah lawmakers introduced a half dozen bills aiming to chill the protected rights of protestors and potentially put protestors in danger from drivers, but almost all of those bills were defeated. The only bill that passed, H.B. 58, requires a person arrested for the felony charge of rioting to appear before a judge before they can post bail or be released. Though we disagree with this law because it perpetuates mass incarceration, it does not alter the right of anyone in Utah to engage in any activity protected by the First Amendment."
+      ]
+    },
+    {
+      "title": "Can I use a megaphone or loudspeaker at a protest?",
+      "content": [
+        "Yes, as long as you don't violate local noise ordinances, or you have obtained a permit allowing amplification beyond the usual limits. In Salt Lake City, enforcement of noise ordinances is driven by complaints (and law enforcement cannot make the complaint), requires decibel readings of sound levels, and must be preceded by warnings to reduce the volume.",
+        "A law enforcement officer cannot tell a protestor to stop using a megaphone in Salt Lake City without following those procedures. Plus, noise ordinances cannot be selectively enforced: for example, police cannot apply the rules only against groups that protest government action."
+      ]
+    },
+    {
+      "title": "Can I take photos or videos of the police at a protest?",
+      "content": [
+        "You have the right to photograph or record police activity in public spaces. Some secure government areas may be subject to certain limitations on photos and recording, and private property owners may also impose their own restrictions on their property.",
+        "Police need a warrant to confiscate or view a private individual's photographs or video and they may not delete a person's data under any circumstances. Generally, police are allowed to order someone to stop taking photos or recording only if the person is doing so in a way that actually interferes with police activity."
+      ]
+    },
+    {
+      "title": "What if I believe a law enforcement officer has violated my rights?",
+      "content": [
+        "When you can, write down everything that you remember, including the officers' badge and patrol car numbers and the agency they work for. Get contact information for witnesses. Take photographs of any injuries.",
+        "Once you have all of this information, you can file a written complaint with the agency's internal affairs division or a civilian complaint board. You can also download the ACLU of Utah's Mobile Justice app (iOS, Android), which lets you record encounters with public officials and law enforcement while streaming to your closest contacts and your local ACLU."
+      ]
+    },
+    {
+      "title": "Where can I protest?",
+      "subsections": [
+        {
+          "title": "Public spaces",
+          "items": [
+            "Your right to protest applies in any public space, but the government has varying levels of ability to apply viewpoint-neutral restrictions to expressive activities depending on the space.",
+            "The First Amendment is at its strongest, and the government's ability to apply limits its weakest, in protecting political speech in traditional public forums such as streets, sidewalks, parks and public areas of government buildings and the Utah Capitol.",
+            "These forums are forever set aside as places where people are free to gather and freely express themselves, whether it is one person on a soapbox making a speech to people passing by or thousands of people marching down the street chanting.",
+            "The government may impose time, place, and manner restrictions in these places, but any such restriction must serve a substantial government interest (like traffic safety), and be narrowly tailored to serve that interest."
+          ]
+        },
+        {
+          "title": "Limited speech areas",
+          "items": [
+            "In certain governmental spaces that are not traditionally open to the public for protest, including military bases, airport terminals, courts, and post office entrances, the government's power to impose restrictions on protest is more expansive.",
+            "Restrictions in these places are not subject to the same level of scrutiny as in public forums, but still must be reasonable and viewpoint neutral. For example, Utah law disallows picketing inside or near a court with the intent to block access to the court or affect the outcome of a case that is pending before that court."
+          ]
+        },
+        {
+          "title": "Private property",
+          "items": [
+            "The First Amendment does not apply to private property owners, including businesses, and they may set rules on what kind of activities they permit on their property.",
+            "If you disobey the property owner's rules, they can order you off their property and have you arrested for trespassing if you do not comply. Accordingly, if you want to engage in protest activities on someone else's private property, it is best to get permission to do so beforehand."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What can I say and do?",
+      "subsections": [
+        {
+          "title": "Expressive conduct",
+          "items": [
+            "The First Amendment covers all forms of expressive conduct, including written and verbal speech, music, film, dance, and clothing. The government may not restrict your First Amendment rights because your views are controversial, unpopular, or offensive."
+          ]
+        },
+        {
+          "title": "Approaching others",
+          "items": [
+            "You may approach pedestrians on public sidewalks with leaflets, flyers, newspapers, petitions, and solicitations for donations as long as the pedestrians have room to pass. You may not purposely physically stop pedestrians or engage in other behavior against people that would be criminal in any context.",
+            "You may set up tables on public sidewalks if there is enough room for pedestrians to pass. You are entitled to picket on public sidewalks, but you must do so in a way that allows pedestrians to pass. You may not block entrances or exits to buildings."
+          ]
+        },
+        {
+          "title": "Signs",
+          "items": [
+            "Yes. Signs are a form of free speech, too. Some government meetings or buildings might limit the size and type of signs allowed indoors, but any limits must be reasonable and enforced without discriminating against content or point of view."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Do I need a permit before engaging in free speech activity or public protests?",
+      "content": [
+        "Generally, courts allow governments to adopt plans that require permits for events in the following circumstances:",
+        "• If you plan to have a march or protest that will not stay on the sidewalk, or if it will require blocking traffic or street closure.",
+        "• If you plan to hold a large rally requiring sound amplifying devices",
+        "• If you plan to have a rally at certain designated public areas",
+        "If you plan to have an event that meets these criteria, it is advisable to look into the permitting requirements for the area or areas where the event will be held."
+      ]
+    },
+    {
+      "title": "What expressive activity is NOT constitutionally protected?",
+      "content": [
+        "There are certain limited types of speech and other expressive activities that are not protected by the First Amendment. These include defamation, fighting words, obscenity, inciting crimes, and protests targeting specific private homes. Each of these concepts have specific definitions to ensure that the lines between protected and non-protected speech remains as clear as possible."
+      ]
+    }
+  ]
+}

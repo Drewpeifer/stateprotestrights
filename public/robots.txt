@@ -1,0 +1,14 @@
+# robots.txt for r2p-react application
+
+User-agent: *
+Allow: /
+Disallow: /data/
+
+# Prevent crawling of any potentially sensitive state-specific data
+Disallow: /assets/
+
+# Crawl delay to reduce server load
+Crawl-delay: 10
+
+# Specify site's location
+Sitemap: https://stateprotestrights.com/sitemap.xml

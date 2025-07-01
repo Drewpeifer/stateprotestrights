@@ -1,0 +1,97 @@
+{
+  "sources": ["https://guides.sll.texas.gov/protest-rights","https://www.aclutx.org/en/know-your-rights/freedom-of-speech-right-to-protest"],
+  "intro": {
+    "title": "Know Your Rights: Protests and Demonstrations in Texas",
+    "text": "The right to protest is a long-standing protection afforded by the U.S. and Texas constitutions. This right is contained both in the freedom of speech and in the freedom to assemble, which protect not only the ability to verbalize protests and engage in symbolic speech, but to arrange peaceful marches and protests on certain public lands."
+  },
+  "sections": [
+    {
+      "title": "Where can I protest?",
+      "subsections": [
+        {
+          "title": "Public spaces and forums",
+          "items": [
+            "Public streets, sidewalks, parks, and the internet: These are traditional public forums that are historically and functionally places of assembly and debate. Here, governmental regulation of speech is very limited.",
+            "You also likely have the right to speak out on other public property, like plazas in front of government buildings, as long as you are not blocking access to the government building or interfering with other purposes the property was designed for.",
+            "Areas specifically opened for speech: These locations are not traditionally open for speech, but the government has specifically designated them for some public discourse. Examples include public meetings and certain areas of public universities and schools. These areas generally have an intermediate level of protection from regulation, although sometimes they receive the highest protection.",
+            "Non-public government property: This includes all other government property that has not historically been a place of public expression and has not specifically been designated one, such as a military base or government office. Although technically public property, it does not qualify as a public forum. Governments may restrict speech there so long as the restrictions are reasonable and not viewpoint-based."
+          ]
+        },
+        {
+          "title": "Private property",
+          "items": [
+            "No. With limited exceptions, First Amendment rights apply only to the government and government property. Private property owners can control what happens on their property and may prevent people from protesting on their land.",
+            "However, adjoining public property, such as streets and sidewalks, may provide an appropriate alternate venue."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Can I be prevented from protesting if my views are controversial?",
+      "content": [
+        "No. Restrictions on speech must generally be unrelated to the content of the speech and may not be viewpoint based. Even if your views are unpopular, controversial, or critical of the government, you still have the right to express them through speech and assembly.",
+        "Counterprotesters also have free speech rights. Police must treat protesters and counterprotesters equally. Police are permitted to keep antagonistic groups separated but should allow them to be within sight and sound of one another."
+      ]
+    },
+    {
+      "title": "Can I take pictures or videos at a protest?",
+      "subsections": [
+        {
+          "title": "Recording rights",
+          "items": [
+            "When you are lawfully present in any public space, you have the right to photograph anything in plain view, including federal buildings and the police.",
+            "Police officers may not confiscate or demand to view your photographs or video without a warrant, nor may they delete data under any circumstances. However, they may order citizens to cease activities that are truly interfering with legitimate law enforcement operations.",
+            "If you are videotaping, be aware that there is an important legal distinction between a visual photographic record (fully protected) and the audio portion of a videotape, which some states have tried to regulate under state wiretapping laws.",
+            "On private property, the owner may set rules related to photography or video."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What happens if the police issues an order to disperse the protest?",
+      "subsections": [
+        {
+          "title": "Dispersal orders",
+          "items": [
+            "Shutting down a protest through a dispersal order must be law enforcement's last resort. Police may not break up a gathering unless there is a clear and present danger of riot, disorder, interference with traffic, or other immediate threat to public safety.",
+            "If officers issue a dispersal order, they must provide a reasonable opportunity to comply, including sufficient time and a clear, unobstructed exit path.",
+            "Individuals must receive clear and detailed notice of a dispersal order, including how much time they have to disperse, the consequences of failing to disperse, and what clear exit route they can follow, before they may be arrested or charged with any crime."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Do I need a permit?",
+      "subsections": [
+        {
+          "title": "Permit requirements",
+          "items": [
+            "You might. You don't need a permit to march in the streets or on sidewalks, as long as marchers don't obstruct cars or pedestrian traffic. If you don't have a permit, police officers can ask you to move to the side of a street or sidewalk to let others pass or for safety reasons.",
+            "Because of concerns like obstruction of traffic and maintenance of public order, some localities may require a permit to hold a parade or a march. Check with your local government.",
+            "How far in advance should I apply for a permit? Courts have approved requirements that a permit be requested a certain number of days before the event. However, the requirement is limited to a few days, and the deadlines must not be so unreasonable as to burden your rights. In one case, a court held that a 10-day requirement placed an unconstitutional burden on expression.",
+            "While certain permit procedures require submitting an application well in advance of the planned event, police can't use those procedures to prevent a protest in response to breaking news events.",
+            "Can I be charged for the permit? Yes. It is permissible to charge fees for the permit application, but the fees may not be arbitrary and may not be imposed in order to discourage applications. The fees must only cover the administrative expenses associated with the application and permit, and regulations should allow a waiver for those who cannot afford the charge."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Legal basis for protest rights",
+      "subsections": [
+        {
+          "title": "Texas Law",
+          "items": [
+            "Texas Constitution, Article 1, Section 8: This section of the Texas Constitution protects freedom of speech and freedom of the press.",
+            "Texas Constitution, Article 1, Section 27: This section of the Texas Constitution gives citizens the right to peacefully assemble."
+          ]
+        },
+        {
+          "title": "Federal Law",
+          "items": [
+            "U.S. Constitution, 1st Amendment: This section of the U.S. Constitution establishes the rights of freedom of speech and the freedom to assemble."
+          ]
+        }
+      ]
+    }
+  ]
+}

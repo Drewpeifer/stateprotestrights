@@ -1,0 +1,31 @@
+{
+  "sources": "https://www.acluvt.org/en/kyr-vt",
+  "intro": {
+    "title": "Know Your Rights: First Amendment and Protest Rights in Vermont",
+    "text": "Everyone has basic rights under the U.S. Constitution and civil rights laws. Below, find tips and information on exercising your rights in various situations, and learn about what to do when your rights are violated."
+  },
+  "sections": [
+    {
+      "title": "Student Protests and Higher Education Rights",
+      "content": [
+        "Students at colleges and universities play a vital role in shaping social movements. This guide explains your legal rights to organize, protest, and express opinions on personal and public matters while enrolled at a college or university in the United States."
+      ],
+      "subsections": [
+        {
+          "title": "Public vs. Private Institutions",
+          "items": [
+            "To determine what free speech protections you have, it is important to first identify whether your college or university is public or private. If you're not sure whether your institution is public or private, you can check by searching for your school at: nces.ed.gov/globallocator/.",
+            "Throughout the guides on this site, note whether the section applies to your school."
+          ]
+        },
+        {
+          "title": "First Amendment Rights at Private Institutions",
+          "items": [
+            "Generally, no. Private institutions generally are not bound by the First Amendment. So, private school students do not have the exact same rights to freedom of speech as students in public institutions.",
+            "Rather, a private school student's free speech rights are generally as outlined/described in the institution's related rules and guidance. To locate your school's rules and policies, you can try searching 'code of conduct' on your school's website or reaching out to your school's administration, such as your office of student affairs or your registrar."
+          ]
+        }
+      ]
+    }
+  ]
+}

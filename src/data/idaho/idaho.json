@@ -1,0 +1,117 @@
+{
+  "sources": "https://www.acluidaho.org/en/know-your-rights/your-rights-under-first-amendment",
+  "intro": {
+    "title": "Your Rights Under the First Amendment",
+    "text": "The First Amendment gives us freedoms we believe are the bedrock of American democracy. From speech to the press, from religion and association to assembly and petition. This amendment is essential to our identity as Americans. This amendment allows us to protest, practice any religion, and speak our mind when we think the government is up to no good."
+  },
+  "sections": [
+    {
+      "title": "The Right to Free Speech and Protesting",
+      "subsections": [
+        {
+          "title": "Can my free speech be restricted because of what I say—even if it is controversial?",
+          "items": [
+            "No. The First Amendment prohibits restrictions based on the content of speech. However, this does not mean that the Constitution completely protects all types of free speech activity in every circumstance. Police and government officials are allowed to place certain nondiscriminatory and narrowly drawn \"time, place and manner\" restrictions on the exercise of First Amendment rights. Any such restrictions must apply to all speech regardless of its point of view."
+          ]
+        },
+        {
+          "title": "Where can I engage in free speech activity?",
+          "items": [
+            "Generally, all types of expression are constitutionally protected in traditional \"public forums\" such as streets, sidewalks and public parks. In addition, your speech activity may be permitted to take place at other public locations that the government has opened up to similar speech activities, such as the plazas in front of government buildings."
+          ]
+        },
+        {
+          "title": "What about free speech activity on private property?",
+          "items": [
+            "The general rule is that the owners of private property may set rules limiting your free speech. If you disobey the property owner's rules, they can order you off their property (and have you arrested for trespassing if you do not comply)."
+          ]
+        },
+        {
+          "title": "Do I need a permit before I engage in free speech activity?",
+          "items": [
+            "Not usually. However, certain types of events require permits. Generally, these events are:",
+            "A march or parade that does not stay on the sidewalk, and other events that require blocking traffic or street closure",
+            "A large rally requiring the use of sound amplifying devices; or",
+            "A rally at certain designated parks or plazas"
+          ]
+        },
+        {
+          "title": "Permit restrictions and requirements",
+          "items": [
+            "Many permit procedures require that the application be filed several weeks in advance of the event. However, the First Amendment prohibits such an advance notice requirement from being used to prevent rallies or demonstrations that are rapid responses to unforeseeable and recent events. Also, many permit ordinances give a lot of discretion to the police or city officials to impose conditions on the event, such as the route of a march or the sound levels of amplification equipment. Such restrictions may violate the First Amendment if they are unnecessary for traffic control or public safety, or if they interfere significantly with effective communication with the intended audience. A permit cannot be denied because the event is controversial or will express unpopular views."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Freedom of the Press",
+      "subsections": [
+        {
+          "title": "The importance of free press",
+          "items": [
+            "The freedom of the press, protected by the First Amendment, is critical to a democracy in which the government is accountable to the people. A free media functions as a watchdog that can investigate and report on government wrongdoing. It is also a vibrant marketplace of ideas, a vehicle for ordinary citizens to express themselves and gain exposure to a wide range of information and opinions."
+          ]
+        },
+        {
+          "title": "Challenges to media freedom",
+          "items": [
+            "The rise of the national security state and the proliferation of new surveillance technologies have created new challenges to media freedom. The government has launched an unprecedented crackdown on whistleblowers, targeting journalists in order to find their sources. Whistleblowers face prosecution under the World War One-era Espionage Act for leaks to the press in the public interest. And in the face of a growing surveillance apparatus, journalists must go to new lengths to protect sources and, by extension, the public's right to know."
+          ]
+        },
+        {
+          "title": "ACLU's role in defending press freedom",
+          "items": [
+            "The ACLU has played a central role in defending the freedom of the press, from our role in the landmark Pentagon Papers case to our defense of whistleblower Edward Snowden and our advocacy for a new media shield law. When press freedom is harmed, it is much harder to hold our government accountable when it missteps or overreaches."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Right to Artistic Expression",
+      "subsections": [
+        {
+          "title": "Protection of creative expression",
+          "items": [
+            "The U.S. Supreme Court has interpreted the First Amendment's protection of speech to extend well beyond speeches and books to virtually anything that the human creative impulse can produce. The First Amendment embodies the belief that in a free and democratic society, individual adults must be free to decide for themselves what to read, write, paint, draw, compose, see, and hear."
+          ]
+        },
+        {
+          "title": "Challenges to artistic freedom",
+          "items": [
+            "Provocative and controversial art and in-your-face entertainment frequently test our commitment to this belief. Why oppose censorship when scenes of murder dominate video entertainment, when works of art can directly insult peoples' religious beliefs, and when pornography abounds on the Internet? Why not let the majority's morality and taste dictate what others can look at or listen to?"
+          ]
+        },
+        {
+          "title": "The principle of free expression",
+          "items": [
+            "The answer is simple and timeless: A free society is based on an individual's right to decide what art they want—or do not want—to see. Once you allow the government to censor one person, it has the power to censor you or something you like. The ACLU advocates for the principle that free expression for ourselves requires free expression for others."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Freedom to Photograph",
+      "subsections": [
+        {
+          "title": "Your right to take photographs in public",
+          "items": [
+            "Taking photographs and video of things that are plainly visible in public spaces is a constitutional right—and that includes transportation facilities, the outside of federal buildings, and police and other government officials carrying out their duties."
+          ]
+        },
+        {
+          "title": "Challenges to photographic freedom",
+          "items": [
+            "Unfortunately, law enforcement officers have been known to ask people to stop taking photographs of public places. Those who fail to comply have sometimes been harassed, detained, and arrested. Other people have ended up in FBI databases for taking innocuous photographs of public places."
+          ]
+        },
+        {
+          "title": "Recording police activity",
+          "items": [
+            "The right of citizens to record the police is a critical check and balance. It creates an independent record of what took place in a particular incident, one that is free from accusations of bias, lying, or faulty memory. It is no accident that some of the most high-profile cases of police misconduct have involved video and audio records.",
+            "Relatedly, artistic expression should never be chilled out of fear of unwarranted police scrutiny. No one should ever find an FBI agent on their doorstep just because they photographed public art."
+          ]
+        }
+      ]
+    }
+  ]
+}

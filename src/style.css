@@ -1,0 +1,296 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+	color: #F1E4E8;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+	--brand-red: #fa7070;
+	--brand-gray: #666;
+	--brand-gray-dark: #46494c;
+	--brand-gray-darker: #3b3b3b;
+	--brand-gray-darkest: #2d2d34;
+	--brand-gray-light: #E2DCDE;
+	--brand-blue: #37515f;
+	--brand-blue-light: #98C1D9;
+}
+/* fonts */
+body, div[role="alert"] {
+	font-family: "Chivo", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 200;
+	font-style: normal;
+}
+h1, h2, h3, h4 {
+	font-family: "Russo One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+/* - */
+body {
+	margin: 0;
+	background: var(--brand-gray-darkest);
+	background-image: url('./assets/bg-95517074.jpg');
+	background-size: cover;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-blend-mode: multiply;
+}
+
+#root {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+header {
+	display: flex;
+	justify-content: flex-start;
+	background-color: var(--brand-blue);
+}
+
+header nav {
+	display: flex;
+}
+
+header a {
+	color: var(--brand-gray-light);
+	padding: 0.75rem;
+	text-decoration: none;
+}
+
+header a.active {
+	background-color: #0005;
+}
+
+header a:hover {
+	background-color: #0008;
+}
+header a svg {
+	position: relative;
+	top: 6px;
+	margin-right: 5px;
+}
+.home a {
+	color: rgb(92, 211, 211);
+}
+.home a:visited {
+	color: rgb(211, 124, 228);
+}
+footer {
+	display: flex;
+	justify-content: center;
+	background-color: var(--brand-blue);
+	padding: 0.75rem;
+	margin-top: auto;
+}
+
+footer p {
+	color: var(--brand-gray-light);
+	margin: 0;
+}
+
+main {
+	flex: auto;
+	display: flex;
+	align-items: center;
+	max-width: 1280px;
+	margin: 0 auto;
+	text-align: center;
+}
+.MuiFormControl-root * {
+	color: #fff;
+}
+.home, .checklist-wrapper, .surveillance-wrapper {
+	margin: 20px auto;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.home section,
+.checklist-wrapper section {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.MuiFormControl-root,
+.MuiFormControl-root label,
+.MuiFormControl-root .MuiInputBase-root,
+.MuiSelect-select {
+	color: #fff;
+}
+.MuiSelect-root {
+	border: 1px solid #fff;
+	background-color: #0005;
+	color: #fff;
+	padding: 0.5rem;
+	border-radius: 4px;
+	font-size: 30px;
+	width: 60%;
+	margin: 0 auto;
+	transition: background-color 0.3s ease;
+	cursor: pointer;
+}
+.MuiSelect-root #state-list {
+	font-size: 30px;
+	line-height: 40px;
+}
+h1, h2, h3, h4 {
+	margin: 10px 0;
+	text-align: center;
+}
+h1 {
+	font-size: 36px;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	color: var(--brand-blue-light)
+}
+h1 strong {
+	color: var(--brand-red);
+}
+h2 {
+	font-size: 30px;
+	text-transform: uppercase;
+}
+h3 {
+	font-size: 24px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+h4 {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+h1.header {
+	margin-bottom:0;
+}
+h2.header {
+	margin-bottom: 0;
+}
+ol, ul, li {
+	margin: 0;
+}
+section {
+	margin-top: 20px;
+	display: grid;
+}
+section.info p {
+	font-size: 18px;
+	color: #fff;
+}
+section.disclaimer {
+	border: 1px solid orange;
+	padding: 5px 3px;
+	margin: 20px auto;
+	color: #e6ad4a;
+}
+section.info div[role="alert"],
+section.disclaimer,
+.MuiSelect-root {
+	background: rgba(0, 0, 0, 0.5);
+}
+section.controls h2 {
+	margin-top: 0px;
+}
+section.state-info,
+.checklist-content {
+	text-align: left;
+	width: 60%;
+	margin-top: 0;
+}
+.checklist h2 {
+	color: var(--brand-blue-light);
+	border-bottom: 1px solid var(--brand-blue-light);
+	padding-bottom: 10px;
+}
+.checklist.negative h2 {
+	color:var(--brand-red);
+	border-bottom: 1px solid var(--brand-red);
+}
+section.intro p {
+	margin: 5px 0;
+	font-size: 20px;
+	text-align: center;
+}
+section.intro strong {
+	color: var(--brand-red);
+}
+.checklist-content section ul {
+	text-align: left;
+	max-width: 600px;
+}
+div[role="alert"] {
+	background-color: rgba(0,0,0, .2);
+	font-size: 16px;
+}
+div[role="alert"].MuiAlert-colorWarning {
+	color: #f3b455;
+}
+div[role="alert"].MuiAlert-colorInfo {
+	color: #f2f2f2;
+}
+div[role="alert"].MuiAlert-colorSuccess {
+	color: #4caf50;
+}
+div[role="alert"] h3 {
+	margin-top: 0;
+}
+div[role="alert"] ol {
+	padding: auto;
+}
+.image-grid {
+	margin: 20px auto;
+	width: 80%;
+}
+.image-grid-item, .image-grid-item img {
+	margin: 0 auto;
+	display: block;
+}
+/* mobile styles */
+@media (max-width: 768px) {
+	.home,
+	.checklist-wrapper,
+	.checklist-content,
+	.image-grid,
+	.image-grid-item img,
+	section.state-info{
+		width: 100%;
+	}
+	section.state-info > div,
+	section.state-info > div > div {
+		width: 98%
+	}
+	section.disclaimer {
+		width: 98%;
+		border: 1px solid orange;
+		padding: 5px 3px;
+		margin: 20px auto;
+		color: #e6ad4a;
+	}
+	section.state-info
+	header a svg {
+		display: none !important;
+	}
+	.state-data div {
+		width: 98%;
+		margin: 10px auto;
+	}
+	h1.header {
+		font-size: 32px;
+	}
+}
+
+/* background image citations */
+/* Leffler, Warren K, photographer. Large crowd at a National Mobilization to End the War in Vietnam direct action demonstration, Washington, D.C. / WKL. Washington D.C, 1967. [21 Oct] Photograph. https://www.loc.gov/item/2015647173/ */
+/* Trikosko, Marion S, photographer. Large crowd of anti-Vietnam War protesters and military police in front of the Pentagon during the March on the Pentagon,/ MST. Virginia Arlington, 1967. [10-27-67 i.e. 21 October] Photograph. https://www.loc.gov/item/2024640714/. */
+/* Leffler, Warren K, photographer. African American demonstrators outside the White House, with signs "We demand the right to vote, everywhere" and signs protesting police brutality against civil rights demonstrators in Selma, Alabama / WKL. Selma Alabama Washington D.C. Washington, 1965. Photograph. https://www.loc.gov/item/2014645538/. */
+/* Underwood & Underwood, Copyright Claimant. Silent protest parade in New York City against the East St. Louis riots. New York, ca. 1917. Photograph. https://www.loc.gov/item/95517074/. */
+/* Meehleib, Tracy, photographer. Black Lives Matter rally H Street, Washington, DC. H Street Washington D.C, 2020. June 4. Photograph. https://www.loc.gov/item/2020632321/. */
